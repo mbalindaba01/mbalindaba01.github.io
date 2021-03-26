@@ -1,0 +1,19 @@
+{
+  "name": "mbalenhle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbalindaba01/mbalindaba01.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbalindaba01/mbalindaba01.github.io/issues"
+  },
+  "homepage": "https://github.com/mbalindaba01/mbalindaba01.github.io#readme"
+}
