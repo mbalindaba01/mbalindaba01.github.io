@@ -301,11 +301,12 @@ footer p {
     }
 
     div.main-text article {
-        font-size: 2.5rem;
+        font-size: 3rem;
     }
 
     div.main-text p {
-        font-size: 1.8rem;
+        font-size: 2.5rem;
+        font-weight: 500;
     }
 
     div.intro-img {
