@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Karla|Quicksand');
 @import url('https://fonts.googleapis.com/css?family=Lobster|Quicksand');
 
 
@@ -12,7 +12,7 @@
 
 body {
     background: #E5E9ED;
-    font-family: 'Dosis';
+    font-family: 'Karla';
 }
 /*header nav section*/
 h1 {
@@ -34,6 +34,7 @@ nav {
     width: 50%;
     height: 100%;
     margin-left: auto;
+    justify-content: flex-end;
 }
 
 ul {
