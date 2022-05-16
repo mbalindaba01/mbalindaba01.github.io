@@ -189,15 +189,13 @@ ul.skills {
 
 /*Blog section*/
 
-section.articles {
-    padding: 0 80px;
-}
-
 div.art-cards {
     display: flex;
     justify-content: space-evenly;
-    margin: 50px 80px;
+    align-items: center;
     height: 100%;
+    width: 100vw;
+    align-items: center;
 }
 
 div.card-2 {
@@ -212,6 +210,9 @@ div.card-2 {
     -webkit-backdrop-filter: blur( 2.4px );
     border-radius: 5px;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 figure img {
@@ -236,6 +237,9 @@ div.card-2 a {
     padding: 8px;
     color: #E5E9ED;
     font-size: 1.8rem;
+    width: 150px;
+    text-align: center;
+    border-radius: 10px;
 }
 
 div.card-2 h3 {
@@ -318,6 +322,12 @@ footer p {
         font-weight: 500;
     }
 
+    div.card
+
+    h2.articles {
+        margin-top: 20px;
+    }
+
     div.intro-img {
         width: 100%;
         opacity: 0.2;
@@ -349,11 +359,6 @@ footer p {
         align-items: center;
         width: 100%;
         padding: 0;
-    }
-
-    div.card-2 {
-        margin: 15px 0;
-        min-width: 78vw;
     }
 
     figure {
