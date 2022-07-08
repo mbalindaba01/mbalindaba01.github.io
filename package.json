@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mbalindaba01/mbalindaba01.github.io/issues"
   },
-  "homepage": "https://github.com/mbalindaba01/mbalindaba01.github.io#readme"
+  "homepage": "https://github.com/mbalindaba01/mbalindaba01.github.io#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
 }
