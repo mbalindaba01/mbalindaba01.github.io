@@ -215,6 +215,10 @@ div.card-2 {
     justify-content: space-between;
 }
 
+img{
+    height: 100%;
+}
+
 figure img {
     width: 350px;
     height: auto;
@@ -328,9 +332,12 @@ footer p {
         margin-top: 20px;
     }
 
+
+
     div.intro-img {
         width: 100%;
         opacity: 0.2;
+        overflow-y: hidden;
     }
 
 
