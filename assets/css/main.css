@@ -22,6 +22,24 @@ h1 {
     position: absolute;
     top: 10px;
     left: 80px;
+
+}
+
+.project-code {
+    font-size: 20px;
+    border: 3px solid #021516;
+    width: 200px;
+    margin: 20px 50px;
+    margin-left: 500px;
+    text-align: center;
+    padding: 5px;
+}
+
+.additional-info {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 header {
@@ -272,6 +290,10 @@ footer p {
     body {
         width: 100%;
         overflow-x: hidden;
+    }
+
+    .project-code {
+        margin-left: 50px;
     }
 
      /*nav section*/
